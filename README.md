@@ -43,7 +43,7 @@ curl --location --request GET 'http://localhost:3060/items'
 
 ## License
 
-This is an education project for our Software Engineer III course. This may project
+This is an educational project for our Software Engineer III course. This project
 may not be used under production environments and will no receive any update after
 we've approved our course.
 
